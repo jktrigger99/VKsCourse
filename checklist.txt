@@ -1,0 +1,9 @@
+check					status
+1. check logo				passed
+2. check burger menu			passed
+3. check login button			passed
+4. login with valid credentials		passed
+5. login with invalid credentials	passed
+6. check forgot password		failed
+7. check privacy policy			passed
+8. check footer				passed
